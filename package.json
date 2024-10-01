@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@wordpress/base-styles": "^5.8.0"
+  }
+}
